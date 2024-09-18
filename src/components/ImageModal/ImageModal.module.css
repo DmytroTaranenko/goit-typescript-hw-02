@@ -1,0 +1,14 @@
+.imageModal {
+  display: block;
+}
+.wrap {
+  display: flex;
+  justify-content: space-around;
+}
+.imageTitle {
+  margin: 4px 0px 10px 0px;
+}
+.imageDescription {
+  margin: 4px 0px 10px 0px;
+  text-align: center;
+}
